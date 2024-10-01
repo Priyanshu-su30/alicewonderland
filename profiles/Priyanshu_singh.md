@@ -13,7 +13,7 @@ ITER Bhuabneshwar
 - Basketball player
 - Video Games
 - Web Series and movies
-- Big fan of HOW I MET YOUR MOTHER
+- Big fan of HARRY POTTER
 
 ### Projects
 

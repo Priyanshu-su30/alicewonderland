@@ -2916,5 +2916,7 @@
 #### Name: [Priyanshu Singh](https://github.com/Priyanshu-su30)
 
 - Place: UP, India
+
 - Bio: MERN Stack developer
+
 - Github: [Priyanshu-su30](https://github.com/Priyanshu-su30)
